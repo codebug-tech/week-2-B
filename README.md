@@ -15,10 +15,6 @@
 - Copy all of the code and paste it into your `index.html` file
 - Open your `index.html` file in Chrome to see what you have
 
-###### CSS
-– Click on the `style.css` file above.
-
-
 ## Ok, let's code
 > Here is the [link to the ppt](https://www.dropbox.com/s/lbm6iyzjsrzz50b/week-2-B.pdf?dl=0)
 
