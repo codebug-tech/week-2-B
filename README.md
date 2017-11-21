@@ -23,7 +23,7 @@
 - Add two puppy tricks inside each of the `<li>` tags
 - Add a `<p>` tag inside the `puppy-tricks` `<div>` above the `<ul>` that explains what you are listing
 - Add a puppy image to the `<img>` tag. Forget how to do this? Just google "how to add an image html". 
-  *Hint you probably will be using the url for the image you find*
+    *Hint you probably will be using the url for the image you find*
 - Add a puppy thought to the `<p>` tag
 - Open your `index.html` in chrome
 
