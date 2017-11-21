@@ -6,7 +6,7 @@
 - Navigate into your `coding` directory
 - Make a new directory named `week-2-B`
 - Navigate into `week-2-B`
-- Create three files inside `week-2-B`: `index.html` and `style.css`
+- Create two files inside `week-2-B`: `index.html` and `style.css`
 - Open the entire week-2-B folder in sublime
 
 
