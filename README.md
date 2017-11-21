@@ -1,17 +1,19 @@
 ## Setup your code
 
 ###### From the terminal...
-> Forget the terminal commands? Go back [here](https://github.com/codebug-tech/week-1-A).
+> Forget the terminal commands? See [TERMINAL COMMANDS](https://github.com/codebug-tech/week-1-A).
 - Navigate to your `Desktop` using `cd`
-- Make a folder named `week-2-B`
+- Navigate into your `coding` directory
+- Make a new directory named `week-2-B`
 - Navigate into `week-2-B`
 - Create three files inside `week-2-B`: `index.html` and `style.css`
 - Open the entire week-2-B folder in sublime
 
 
 ###### HTML
+- Hold the command key and click on `index.html`.
 - Click on the `index.html` file above. 
-- Click on the "Raw" button to isolate the code
+- Navigate to the tab you just opened and click on the "RAW" button to isolate the code
 - Copy all of the code and paste it into your `index.html` file
 - Open your `index.html` file in Chrome to see what you have
 
